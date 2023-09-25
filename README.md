@@ -9,7 +9,7 @@ This is a fun course where students are made to solve real-time problems. The pa
 - <https:workshopsinwd.humber>
 - You can find all the necessary details in [Workshops in Web development](https:webdevwrokshop.humber)
 
-![It's a fun place to code](imgae.png)
+![It's a fun place to code](workshops-wd-logo.png)
 
 ### Note:
 Every student must understand and follow **"Academic Integrity"**
